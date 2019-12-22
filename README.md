@@ -1,2 +1,3 @@
 # Shader School
-> My own take at the [https://github.com/stackgl/shader-school](Shader School) workshop.
+> My own take at the [Shader School](https://github.com/stackgl/shader-school) workshop.
+
